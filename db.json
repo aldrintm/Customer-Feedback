@@ -20,5 +20,25 @@
       "text": "Kate is such a booger baby today!",
       "id": 5
     }
+  ],
+
+  "customer": [
+
+    {
+      "id": "234jyvqf8fkqjhf8",
+      "dateCreated": {
+        "month": "January",
+        "day": 1,
+        "year": 2022
+      },
+      "name": "Aldrin",
+      "address": {
+        "houseNumber": 63,
+        "street": "Palmwell Way",
+        "city": "San Jose",
+        "zip": 95138
+      },
+      "phone": 4083063272
+    }
   ]
 }
